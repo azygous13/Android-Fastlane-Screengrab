@@ -1,0 +1,7 @@
+<resources>
+    <string name="hello">สวัสดี</string>
+    <string name="click_me">คลิกฉันสิ</string>
+    <string name="dismiss">ตกลง</string>
+    <string name="language">ภาษา</string>
+    <string name="current_language">ไทย</string>
+</resources>

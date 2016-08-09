@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fastlane Screengrab</string>
+    <string name="hello">Hello</string>
+    <string name="click_me">Click Me</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="language">Language</string>
+    <string name="current_language">English</string>
+</resources>
